@@ -20,42 +20,4 @@ Feedback Sobre o Curso:
 Os métodos de ensino da Alura foram extremamente eficazes, com uma abordagem didática e clara dos professores. A experiência foi enriquecedora e contribuiu positivamente para o meu desenvolvimento profissional.
 
 Este projeto não só consolidou meus conhecimentos técnicos, mas também reforçou a importância da aprendizagem contínua e da prática para o crescimento na área de desenvolvimento.
-pode fazer um resumo
-
-
-Mostrar rascunhos
-
-
-Resumo do Projeto: Decodificador/Encriptador de Texto
-Objetivo:
-Criar uma ferramenta web simples para criptografar e descriptografar textos, utilizando as tecnologias HTML, CSS e JavaScript. Este projeto foi parte de um desafio proposto pelo curso da Alura em parceria com a Oracle.
-
-Tecnologias:
-
-Frontend: HTML, CSS e JavaScript.
-Versionamento: Git.
-Ferramentas: VS Code, ChatGPT.
-Processo:
-
-Planejamento: Definição da funcionalidade básica do decodificador/encriptador.
-Desenvolvimento:
-Criação da interface do usuário (HTML, CSS).
-Implementação da lógica de criptografia/descriptografia em JavaScript.
-Utilização de ferramentas como ChatGPT para auxiliar na resolução de problemas.
-Versionamento: Controle das alterações no código utilizando Git e hospedagem no GitHub.
-Resultados:
-
-Aprendizado: Aprimoramento de habilidades em HTML, CSS e JavaScript.
-Prática: Aplicação de conceitos aprendidos na prática.
-Portfólio: Criação de um projeto para demonstrar as habilidades adquiridas.
-Feedback:
-O curso da Alura foi avaliado positivamente, com destaque para a qualidade do ensino e a abordagem didática.
-
-Conclusões:
-O projeto foi um sucesso, permitindo ao desenvolvedor consolidar seus conhecimentos e dar um passo importante em sua jornada como programador.
-
-Próximos Passos:
-
-Continuar aprendendo e explorando novas tecnologias.
-Buscar aprimorar o projeto, adicionando novas funcionalidades ou otimizando o código.
-Em resumo, o projeto do decodificador/encriptador foi uma experiência enriquecedora que permitiu ao desenvolvedor aplicar seus conhecimentos teóricos na prática e construir um portfólio sólido
+https://alura-decodificador-indol.vercel.app/
